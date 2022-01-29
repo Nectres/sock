@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nanoid": "^3.2.0",
+    "ws": "^8.4.2"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.2.2"
+  }
+}
